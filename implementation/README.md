@@ -17,8 +17,8 @@ This folder contains the standardized implementations of the seven selected user
 - `weighted_k_nearest_neighbors.py` (*)
     - Implementation of *k*-Nearest Neighbors by Monadjemi et al.
 - `zhou_analytic_focus.py` (*)
-    - Implemenation of Analytic Focus by Zhou et al.
+    - Implementation of Analytic Focus by Zhou et al.
 
 <br>
 * denotes that the technique can predict next data interaction <br>
-+ denotes that the techchique can detect exploration bias
++ denotes that the technique can detect exploration bias
