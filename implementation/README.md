@@ -12,7 +12,7 @@ This folder contains the standardized implementations of the seven selected user
     - Implementation of Competing Models by Monadjemi et al.
 - `ottley_hidden_markov_model.py` (*+)
     - Implementation of Hidden Markov Model by Ottley et al.
-- `wall_bias.py` (^)
+- `wall_bias.py` (+)
     - Implementation of Attribute Distribution by Wall et al.
 - `weighted_k_nearest_neighbors.py` (*)
     - Implementation of *k*-Nearest Neighbors by Monadjemi et al.
